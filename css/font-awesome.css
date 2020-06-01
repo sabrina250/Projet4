@@ -21,7 +21,7 @@
     -moz-osx-font-smoothing: grayscale
 }
 .fas {
-    font-weight: 900px;
+    font-weight: 900;
     font-size: 40px;
     font-family: "Font Awesome 5 Brands";
     margin: 30px;
